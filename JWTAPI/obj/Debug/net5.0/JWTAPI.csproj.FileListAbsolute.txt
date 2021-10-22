@@ -1,0 +1,122 @@
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\appsettings.json
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\JWTAPI.exe
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\JWTAPI.deps.json
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\JWTAPI.runtimeconfig.json
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\JWTAPI.runtimeconfig.dev.json
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\JWTAPI.dll
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\ref\JWTAPI.dll
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\JWTAPI.pdb
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\Humanizer.dll
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Kanini\grp project\JWTAPI\obj\Debug\net5.0\JWTAPI.csproj.AssemblyReference.cache
+D:\Kanini\grp project\JWTAPI\obj\Debug\net5.0\JWTAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kanini\grp project\JWTAPI\obj\Debug\net5.0\JWTAPI.AssemblyInfoInputs.cache
+D:\Kanini\grp project\JWTAPI\obj\Debug\net5.0\JWTAPI.AssemblyInfo.cs
+D:\Kanini\grp project\JWTAPI\obj\Debug\net5.0\JWTAPI.csproj.CoreCompileInputs.cache
+D:\Kanini\grp project\JWTAPI\obj\Debug\net5.0\JWTAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Kanini\grp project\JWTAPI\obj\Debug\net5.0\JWTAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Kanini\grp project\JWTAPI\obj\Debug\net5.0\staticwebassets\JWTAPI.StaticWebAssets.Manifest.cache
+D:\Kanini\grp project\JWTAPI\obj\Debug\net5.0\staticwebassets\JWTAPI.StaticWebAssets.xml
+D:\Kanini\grp project\JWTAPI\obj\Debug\net5.0\scopedcss\bundle\JWTAPI.styles.css
+D:\Kanini\grp project\JWTAPI\obj\Debug\net5.0\JWTAPI.RazorTargetAssemblyInfo.cache
+D:\Kanini\grp project\JWTAPI\obj\Debug\net5.0\JWTAPI.csproj.CopyComplete
+D:\Kanini\grp project\JWTAPI\obj\Debug\net5.0\JWTAPI.dll
+D:\Kanini\grp project\JWTAPI\obj\Debug\net5.0\ref\JWTAPI.dll
+D:\Kanini\grp project\JWTAPI\obj\Debug\net5.0\JWTAPI.pdb
+D:\Kanini\grp project\JWTAPI\obj\Debug\net5.0\JWTAPI.genruntimeconfig.cache
+D:\Kanini\grp project\JWTAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\JWTAPI.exe
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\JWTAPI.deps.json
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\JWTAPI.runtimeconfig.json
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\JWTAPI.runtimeconfig.dev.json
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\JWTAPI.dll
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\ref\JWTAPI.dll
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\JWTAPI.pdb
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Downloads\JWTAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Downloads\JWTAPI\obj\Debug\net5.0\JWTAPI.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\JWTAPI\obj\Debug\net5.0\JWTAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\JWTAPI\obj\Debug\net5.0\JWTAPI.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\JWTAPI\obj\Debug\net5.0\JWTAPI.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\JWTAPI\obj\Debug\net5.0\JWTAPI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\JWTAPI\obj\Debug\net5.0\JWTAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\Downloads\JWTAPI\obj\Debug\net5.0\JWTAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Downloads\JWTAPI\obj\Debug\net5.0\staticwebassets\JWTAPI.StaticWebAssets.Manifest.cache
+C:\Users\Administrator\Downloads\JWTAPI\obj\Debug\net5.0\staticwebassets\JWTAPI.StaticWebAssets.xml
+C:\Users\Administrator\Downloads\JWTAPI\obj\Debug\net5.0\scopedcss\bundle\JWTAPI.styles.css
+C:\Users\Administrator\Downloads\JWTAPI\obj\Debug\net5.0\JWTAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Downloads\JWTAPI\obj\Debug\net5.0\JWTAPI.csproj.CopyComplete
+C:\Users\Administrator\Downloads\JWTAPI\obj\Debug\net5.0\JWTAPI.dll
+C:\Users\Administrator\Downloads\JWTAPI\obj\Debug\net5.0\ref\JWTAPI.dll
+C:\Users\Administrator\Downloads\JWTAPI\obj\Debug\net5.0\JWTAPI.pdb
+C:\Users\Administrator\Downloads\JWTAPI\obj\Debug\net5.0\JWTAPI.genruntimeconfig.cache
